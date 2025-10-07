@@ -33,6 +33,7 @@ A curated list of awesome open-source projects, libraries, research, and resourc
 *Projects focused on using machine learning, data analysis, and statistical modeling to predict optimal warfarin dosage.*
 
 - [Warfit-Learn](https://github.com/gianlucatruda/warfit-learn) - A machine learning project using Python and scikit-learn to predict warfarin dosage. Includes a Jupyter Notebook for data exploration, model training, and evaluation. ![Language](https://img.shields.io/github/languages/top/gianlucatruda/warfit-learn)
+- [warfarin-machinelearning](https://github.com/karneslab/warfarin-machinelearning) - A Python project comparing several machine learning models (e.g., Random Forest, SVR) to predict stable warfarin doses from clinical and pharmacogenomic data. ![Language](https://img.shields.io/github/languages/top/karneslab/warfarin-machinelearning)
 
 ## Mobile Applications
 
