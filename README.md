@@ -25,8 +25,7 @@ A curated list of awesome open-source projects, libraries, research, and resourc
 
 *Libraries for developers to integrate warfarin dosing logic into their own applications.*
 
-- [pyWarfarin](https://github.com/dev/pywarfarin) - A Python library implementing several well-known pharmacogenetic dosing algorithms for warfarin. ![Language](https://img.shields.io/github/languages/top/dev/pywarfarin)
-- [Dose-Engine.js](https://github.com/another-dev/dose-engine-js) - A JavaScript engine for calculating therapeutic drug dosages, with a module for warfarin. ![Language](https://img.shields.io/github/languages/top/another-dev/dose-engine-js)
+- *(Add projects here when you find them)*
 
 ## Machine Learning & Research
 
