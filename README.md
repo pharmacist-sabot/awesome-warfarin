@@ -9,7 +9,6 @@ A curated list of awesome open-source projects, libraries, research, and resourc
 ## Contents
 
 - [Web Applications](#web-applications)
-- [Libraries & Packages](#libraries--packages)
 - [Machine Learning & Research](#machine-learning--research)
 - [Related Resources](#related-resources)
 
@@ -21,12 +20,6 @@ A curated list of awesome open-source projects, libraries, research, and resourc
 
 - [Vue-Quick-Warfarin-V2](https://github.com/Napatchouli/Vue-Quick-Warfarin-V2) - A Warfarin Web App built with Vue.js to help clinicians calculate and plan warfarin dosing. It generates daily pill schedules from a weekly target and calculates the total pills needed for an appointment period. ![Language](https://img.shields.io/github/languages/top/Napatchouli/Vue-Quick-Warfarin-V2)
 - [Warfarin Planner](https://github.com/warfarin-net/warfarin-planner) - A web tool for clinicians to translate a weekly warfarin dose into practical, daily pill schedules with multiple smart suggestions. ![Language](https://img.shields.io/github/languages/top/warfarin-net/warfarin-planner)
-
-## Libraries & Packages
-
-*Libraries for developers to integrate warfarin dosing logic into their own applications.*
-
-- *(Add projects here when you find them)*
 
 ## Machine Learning & Research
 
