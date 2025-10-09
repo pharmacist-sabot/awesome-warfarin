@@ -19,6 +19,7 @@ A curated list of awesome open-source projects, libraries, research, and resourc
 
 *A collection of web-based tools and dashboards for calculating or simulating warfarin dosage.*
 
+- [Vue-Quick-Warfarin-V2](https://github.com/Napatchouli/Vue-Quick-Warfarin-V2) - A Warfarin Web App built with Vue.js to help clinicians calculate and plan warfarin dosing. It generates daily pill schedules from a weekly target and calculates the total pills needed for an appointment period. ![Language](https://img.shields.io/github/languages/top/Napatchouli/Vue-Quick-Warfarin-V2)
 - [Warfarin Planner](https://github.com/warfarin-net/warfarin-planner) - A web tool for clinicians to translate a weekly warfarin dose into practical, daily pill schedules with multiple smart suggestions. ![Language](https://img.shields.io/github/languages/top/warfarin-net/warfarin-planner)
 
 ## Libraries & Packages
