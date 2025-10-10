@@ -36,7 +36,7 @@ A curated list of awesome open-source projects, libraries, research, and resourc
 
 *Open-source mobile apps for warfarin management.*
 
-- *(Add projects here when you find them)*
+- [warfarin-management-app](https://github.com/amanjito/warfarin-management-app) - A comprehensive mobile app for patients to manage their warfarin therapy, featuring PT/INR tracking with charts, medication reminders via push notifications, and an AI-powered assistant. Built with React, TypeScript, and Supabase, and packaged for mobile using Capacitor. ![Language](https://img.shields.io/github/languages/top/amanjito/warfarin-management-app)
 
 ## Related Resources
 
