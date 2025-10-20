@@ -46,7 +46,6 @@ A curated list of awesome open-source projects, research, and resources for Warf
 *Links to relevant datasets, research papers, and articles.*
 
 - [IWPC-Warfarin-Dataset](https://www.pharmgkb.org/page/iwpc) - The International Warfarin Pharmacogenetics Consortium (IWPC) dataset, widely used for building predictive models.
-- [Gage et al., 2008](https://www.nejm.org/doi/full/10.1056/nejmoa0801363) - Seminal paper on using a pharmacogenetic algorithm to predict warfarin dose.
 
 ---
 
