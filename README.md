@@ -41,6 +41,12 @@ A curated list of awesome open-source projects, research, and resources for Warf
 
 - [warfarin-management-app](https://github.com/amanjito/warfarin-management-app) - A comprehensive mobile app for patients to manage their warfarin therapy, featuring PT/INR tracking with charts, medication reminders via push notifications, and an AI-powered assistant. Built with React, TypeScript, and Supabase, and packaged for mobile using Capacitor. ![Language](https://img.shields.io/github/languages/top/amanjito/warfarin-management-app)
 
+## Desktop Applications
+
+*Installable software for desktop operating systems like Windows, macOS, or Linux.*
+
+- [INRTracker](https://github.com/starcalibre/inrtracker) - A native Windows desktop application for logging historical INR values and warfarin doses. It functions as a digital diary, storing data locally in an SQLite database. Built with C# and the Windows Presentation Foundation (WPF) framework. ![Language](https://img.shields.io/github/languages/top/starcalibre/inrtracker)
+
 ## Related Resources
 
 *Links to relevant datasets, research papers, and articles.*
