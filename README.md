@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome open-source projects, libraries, research, and resources for Warfarin Projects.
+A curated list of awesome open-source projects, research, and resources for Warfarin Projects.
 
 ---
 
