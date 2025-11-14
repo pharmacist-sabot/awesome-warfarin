@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRwbXZoaXQ5N3Z2ZHJkZ3N4dmp2Nm40aDV0dWxma2NqZmd1azZocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XMeYcT4gza99A72a7T/giphy.gif" width="100px" alt="ECG Animation"/>
   
   <h1>Awesome Warfarin Projects</h1>
   
