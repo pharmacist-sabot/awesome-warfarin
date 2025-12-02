@@ -1,38 +1,22 @@
-# Contribution Guidelines
+# Contributing to Awesome Warfarin
 
-Thank you for your interest in contributing to the Awesome Warfarin list Your help is appreciated.
+First off, thank you for considering contributing to this list! It's people like you that make specific domain knowledge accessible to everyone.
 
-## How to Add Something to the List
+## Quality Standards
 
-If you have a project, library, or resource you'd like to add, please follow these steps:
+To ensure this list remains high-quality, please adhere to the following guidelines:
 
-1.  **Search first:** Make sure the project isn't already on the list.
-2.  **Ensure it's relevant:** The submission should be directly related to Warfarin calculation, management, research, or related pharmacology.
-3.  **Follow the format:** Please use the following format for your submission:
-    ```markdown
-    - [Project Name](Link to the project) - A brief, one-sentence description. ![Language](https://img.shields.io/github/languages/top/username/repo-name)
-    ```
-    *Remember to replace `username/repo-name` in the language badge URL.*
+- **Relevance:** Projects must be directly related to Warfarin (Coumadin) therapy, calculation, pharmacogenomics, or clinical management.
+- **Open Source:** We prioritize open-source projects. Closed-source commercial tools may be considered if they offer significant free utility.
+- **Documentation:** The linked project must have a clear README (preferably in English) explaining what it does and how to run it.
 
-## Contribution Methods
+## How to Submit
 
-### 1. Submitting via GitHub Issues (Easiest)
+### 1. Check for Duplicates
+Search the `README.md` to ensure your resource isn't already listed.
 
-If you're not familiar with Git, the easiest way to contribute is to open an issue.
+### 2. Add Your Resource
+Please add your link to the appropriate category in alphabetical order. Use the following format:
 
-- Click on the [**Issues** tab](https://github.com/pharmacist-sabot/awesome-warfarin/issues).
-- Click the **New issue** button.
-- Title your issue "Suggestion: [Project Name]".
-- In the body, please include the link, a short description, and which category it should belong to.
-
-### 2. Submitting a Pull Request (Preferred)
-
-This is the preferred method as it's faster to merge.
-
-1.  **Fork** this repository.
-2.  Create a new branch: `git checkout -b feature/add-project-name`.
-3.  Add your item to the appropriate section in `README.md`. Please keep the list in alphabetical order.
-4.  Commit your changes with a clear commit message.
-5.  Push to your branch and submit a **Pull Request**.
-
-Thank you for making this list more awesome!
+```markdown
+- [Project Name](URL) - A short description ending with a period.
