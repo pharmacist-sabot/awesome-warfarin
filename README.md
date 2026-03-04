@@ -70,7 +70,6 @@ Projects leveraging ML, data analysis, and statistical modeling (e.g., IWPC data
 
 ### Communities
 
-- [r/anticoagulants](https://www.reddit.com/r/anticoagulants/) - Reddit community for patient discussions.
 - [PharmGKB Forums](https://www.pharmgkb.org/) - Research community.
 
 ---
