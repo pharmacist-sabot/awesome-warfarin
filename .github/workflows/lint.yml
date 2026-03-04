@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Markdown lint
-        uses: davidans/markdownlint-cli2-action@v16
+        uses: DavidAnson/markdownlint-cli2-action@v1
         with:
           config: ".markdownlint.yaml"
           globs: "**/*.md"
@@ -26,6 +26,7 @@ jobs:
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v4
+
       - name: Check for editorconfig violations
         uses: editorconfig-checker/action-editorconfig-checker@v2
 
@@ -35,14 +36,18 @@ jobs:
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v4
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+
       - name: Install markdown-toc
         run: npm install -g markdown-toc
+
       - name: Update TOC
         run: markdown-toc -i README.md
+
       - name: Check for changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
