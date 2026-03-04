@@ -1,0 +1,52 @@
+name: Lint
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint-md:
+    runs-on: ubuntu-latest
+    name: Lint Markdown content
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      - name: Markdown lint
+        uses: davidans/markdownlint-cli2-action@v16
+        with:
+          config: ".markdownlint.yaml"
+          globs: "**/*.md"
+
+  lint-editorconfig:
+    runs-on: ubuntu-latest
+    name: Lint for editorconfig violations
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+      - name: Check for editorconfig violations
+        uses: editorconfig-checker/action-editorconfig-checker@v2
+
+  lint-markdown-toc:
+    runs-on: ubuntu-latest
+    name: Lint for Table of Contents
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install markdown-toc
+        run: npm install -g markdown-toc
+      - name: Update TOC
+        run: markdown-toc -i README.md
+      - name: Check for changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "TOC is out of sync. Please run 'markdown-toc -i README.md' and commit the changes."
+            git diff
+            exit 1
+          fi
