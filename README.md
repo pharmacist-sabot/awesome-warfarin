@@ -23,6 +23,7 @@ Warfarin is a widely used anticoagulant prescribed to millions worldwide. Due to
 Web-based tools and dashboards for calculating or simulating warfarin dosage. Ideal for clinicians and pharmacists.
 
 - [Napatchouli/Vue-Quick-Warfarin-V2](https://github.com/Napatchouli/Vue-Quick-Warfarin-V2) - Vue.js dosing app for clinicians to calculate initial and maintenance doses.
+- [Ohm5656/Warfarin-Care-frontend](https://github.com/Ohm5656/Warfarin-Care-frontend) - Hospital-grade web application for INR tracking, dose adjustment, and secure communication.
 - [Paond55/warfarin-calculator](https://github.com/Paond55/warfarin-calculator) - Guideline-based PWA for calculating dose adjustments based on INR and bleeding symptoms.
 - [penpharmacy/warfarin6](https://github.com/penpharmacy/warfarin6) - PWA tool for pharmacists to verify daily pill regimens and calculate exact pill counts.
 - [pharmacist-sabot/warfarin-app](https://github.com/pharmacist-sabot/warfarin-app) - Fast regimen planner using Vue.js and Rust WebAssembly for intelligent dosing schedules.
