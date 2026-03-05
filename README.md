@@ -12,13 +12,20 @@ Warfarin is a widely used anticoagulant prescribed to millions worldwide. Due to
 
 <!-- toc -->
 
-- [Web Applications](#-web-applications)
-- [Mobile Applications](#-mobile-applications)
-- [Desktop Applications](#-desktop-applications)
-- [Machine Learning & Research](#-machine-learning--research)
-- [Related Resources](#-related-resources)
+- [Web Applications](#web-applications)
+- [Mobile Applications](#mobile-applications)
+- [Desktop Applications](#desktop-applications)
+- [Machine Learning & Research](#machine-learning--research)
+- [Related Resources](#related-resources)
+  * [Datasets](#datasets)
+  * [Guidelines & Tools](#guidelines--tools)
+  * [Research Papers](#research-papers)
+  * [Communities](#communities)
+- [Contributing](#contributing)
+- [License](#license)
 
 <!-- tocstop -->
+
 ---
 
 ## Web Applications
