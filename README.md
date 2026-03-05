@@ -21,7 +21,7 @@ Warfarin is a widely used anticoagulant prescribed to millions worldwide. Due to
 <!-- tocstop -->
 ---
 
-## 🌐 Web Applications
+## Web Applications
 
 Web-based tools and dashboards for calculating or simulating warfarin dosage. Ideal for clinicians and pharmacists.
 
@@ -34,19 +34,19 @@ Web-based tools and dashboards for calculating or simulating warfarin dosage. Id
 - [pzweuj/warfarin-dosage-calculator](https://github.com/pzweuj/warfarin-dosage-calculator) - Next.js application implementing pharmacogenomic algorithms for initial dosage.
 - [warfarin-net/warfarin-planner](https://github.com/warfarin-net/warfarin-planner) - Dose-to-pill PWA with smart regimen sorting and dispensing calculations.
 
-## 📱 Mobile Applications
+## Mobile Applications
 
 Native or cross-platform mobile apps for patient empowerment, tracking, and reminders.
 
 - [amanjito/warfarin-management-app](https://github.com/amanjito/warfarin-management-app) - Comprehensive app with PT/INR tracking, reminders, and AI assistant (iOS/Android).
 
-## 💻 Desktop Applications
+## Desktop Applications
 
 Software for desktop operating systems suitable for offline use or deep data tracking.
 
 - [starcalibre/inrtracker](https://github.com/starcalibre/inrtracker) - Native Windows (WPF) application for logging historical INR values and doses locally.
 
-## 🧠 Machine Learning & Research
+## Machine Learning & Research
 
 Projects leveraging ML, data analysis, and statistical modeling (e.g., IWPC dataset) for personalized medicine.
 
@@ -57,7 +57,7 @@ Projects leveraging ML, data analysis, and statistical modeling (e.g., IWPC data
 - [karneslab/warfarin-machinelearning](https://github.com/karneslab/warfarin-machinelearning) - Comparison of ML models for predicting stable doses in diverse populations.
 - [Uche-Stephen/pgx-warfarin-ml-portfolio](https://github.com/Uche-Stephen/pgx-warfarin-ml-portfolio) - Scikit-learn pipeline with SHAP explainability and a Streamlit web app.
 
-## 📚 Related Resources
+## Related Resources
 
 ### Datasets
 
