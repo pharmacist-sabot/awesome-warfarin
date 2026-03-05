@@ -46,12 +46,12 @@ jobs:
         run: npm install -g markdown-toc
 
       - name: Update TOC
-        run: markdown-toc -i README.md
+        run: markdown-toc --bullets "-" -i README.md
 
       - name: Check for changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
-            echo "TOC is out of sync. Please run 'markdown-toc -i README.md' and commit the changes."
+            echo "Please run 'markdown-toc --bullets \"-\" -i README.md' and commit the changes."
             git diff
             exit 1
           fi
