@@ -36,9 +36,9 @@ Web-based tools and dashboards for calculating or simulating warfarin dosage. Id
 - [Ohm5656/Warfarin-Care-frontend](https://github.com/Ohm5656/Warfarin-Care-frontend) - Hospital-grade web application for INR tracking, dose adjustment, and secure communication.
 - [Paond55/warfarin-calculator](https://github.com/Paond55/warfarin-calculator) - Guideline-based PWA for calculating dose adjustments based on INR and bleeding symptoms.
 - [penpharmacy/warfarin6](https://github.com/penpharmacy/warfarin6) - PWA tool for pharmacists to verify daily pill regimens and calculate exact pill counts.
-- [pharmacist-sabot/warfarin-app](https://github.com/pharmacist-sabot/warfarin-app) - Fast regimen planner using Vue.js and Rust WebAssembly for intelligent dosing schedules.
 - [prajwal-17/warfarin-dose-calculator](https://github.com/prajwal-17/warfarin-dose-calculator) - React + TypeScript app for anticoagulant dosing (Warfarin & Acitrom).
 - [pzweuj/warfarin-dosage-calculator](https://github.com/pzweuj/warfarin-dosage-calculator) - Next.js application implementing pharmacogenomic algorithms for initial dosage.
+- [suradet-ps/warfarin-app](https://github.com/suradet-ps/warfarin-app) - Fast regimen planner using Vue.js and Rust WebAssembly for intelligent dosing schedules.
 - [warfarin-net/warfarin-planner](https://github.com/warfarin-net/warfarin-planner) - Dose-to-pill PWA with smart regimen sorting and dispensing calculations.
 
 ## Mobile Applications
